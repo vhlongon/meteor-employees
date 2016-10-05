@@ -1,5 +1,8 @@
+//Everthing here only execute on the client
+
 import React, {Component} from 'react';
 import {render} from 'react-dom';
+
 
 const App = (props) => {
   return (
