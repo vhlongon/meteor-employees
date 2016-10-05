@@ -2,13 +2,13 @@
 
 import React, {Component} from 'react';
 import {render} from 'react-dom';
-import EmployessList from './components/employee_list';
+import EmployeeList from './components/employee_list';
 
 
 const App = (props) => {
   return (
     <div>
-      <EmployessList />
+      <EmployeeList />
     </div>
   );
 }
