@@ -1,0 +1,22 @@
+.employee__detail {
+  flex-grow: 1;
+  width: 250px;
+  margin: 1%;
+  border: 1px solid #ccc;
+  padding: 20px;
+}
+
+.employee__avatar {
+  display: block;
+  margin: 0 auto;
+}
+
+.employee__caption {
+  // padding: 20px 20px 0;
+}
+
+.employee__caption-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
